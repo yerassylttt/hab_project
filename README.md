@@ -1,7 +1,6 @@
 # HAB Project – Meta-analysis & Environmental Drivers
 
-This repository contains data, scripts, and notebooks for analyzing **harmful algal blooms (HABs)** and their association with **marine mammal mortalities**, with a focus on the Caspian Sea.  
-The project combines **meta-analysis of toxin concentrations** with **environmental drivers** (temperature, wind, chlorophyll, river discharge).
+This repository contains data, scripts, and notebooks for the **meta-analysis of global HAB toxin exposure in seals and sea lions**, and for studying the **environmental drivers of harmful algal blooms (HABs) in the Caspian Sea** and their association with seal mortality events.
 
 ---
 
