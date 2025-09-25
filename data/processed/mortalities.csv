@@ -1,0 +1,69 @@
+date,year,month,country,location,lat,lon,count,primary_cause,source_link
+2001-05,2001,5,Regional,Caspian-wide,42,"50,5",,CDV,"https://www.pinnipeds.org/seal-information/species-information-pages/the-phocid-seals/caspian-seal#:~:text=increased%20mortality%20rate%20were%20received,to%20persist%20in%20the%20seal"
+2000-05,2000,5,Regional,Caspian-wide (KZ/AZ/TM),42,"50,5",10000,CDV,"https://marinemammalscience.org/facts/pusa-caspica/#:~:text=,13"
+2017-04,2017,6,Turkmenistan,East coast of the Caspian Sea,"40,3","52,8",6,by-catch,https://kaspika.org/en/2018/05/01/number-of-caspian-seals-in-turkmen-sector-of-caspian-sea-2/
+2021-02,2021,2,Turkmenistan,East coast of the Caspian Sea,"40,3","52,8",550,unknown,https://novastan.org/en/turkmenistan/hundreds-of-lifeless-caspian-seals-washed-ashore-in-turkmenistan/
+2006-05,2006,5,Kazakhstan,Mangistau,"44,5","50,4",330,unknown ,https://www.rferl.org/a/kazakh_ecologists_investigate_caspian_seal_deaths/24096022.html
+2007-04,2007,4,Kazakhstan,Mangistau,"44,5","50,4",885,unknown,https://www.reuters.com/article/economy/kazakhstans-caspian-seal-deaths-rise-to-nearly-900-idUSL07241082/
+2007-04,2007,4,Kazakhstan,Mangistau,"44,5","50,4",127,unknown,https://iwpr.net/global-voices/controversy-over-caspian-seal-deaths
+2009-05,2009,5,Kazakhstan,Mangistau,"44,5","50,4",312,unknown,https://pmc.ncbi.nlm.nih.gov/articles/PMC3694144/
+2017-04,2017,4,Kazakhstan,Mangistau,"44,5","50,4",300,mechanical trauma,"https://kaspika.org/en/2017/06/15/caspian-seals-die-due-to-icebreakers-and-poachers-nets-2/#:~:text=The%C2%A0Ministry%20of%20Agriculture%20of%20the%C2%A0Republic,was%20the%C2%A0most%20dangerous%20for%20seals"
+2017-05,2017,5,Kazakhstan,Mangistau,"44,5","50,4",247,unknown ,"https://kaspika.org/en/2022/04/28/dozens-of-dead-seals-in-kazakhstan-2/#:~:text=only%20case%20of%20mass%20mortality,seals%20could%20not%20be%20identified"
+2023-03,2023,3,Kazakhstan,Mangistau,"44,5","50,4",343,unknown,"https://kaspika.org/en/2023/06/09/hundreds-of-dead-caspian-seals-in-kazakhstan-2/#:~:text=In%20the%20first%20half%20of,mortality%20would%20be%20found%20out"
+2024-04,2024,4,Kazakhstan,Mangistau,"44,5","50,4",209,unknown,"https://kaspika.org/en/2024/05/01/mass-stranding-of-dead-seals-causes-unknown-2/#:~:text=According%20to%20Fisheries%20Committee%2C%C2%A0Kazakhstan%20Ministry,mortality%20are%20unknown%20as%20usual"
+2024-10,2024,10,Kazakhstan,Mangistau,"44,5","50,4",289,unknown,"https://kaspika.org/en/2024/10/30/stranded-on-tyub-karagan-2/#:~:text=The%20number%20of%20dead%20Caspian,animals%20had%20already%20been%20registered"
+2025-04,2025,5,Kazakhstan,Mangistau,"44,5","50,4",279,unknown,"https://kaspika.org/en/2025/05/27/279-dead-caspian-seals-2/#:~:text=Once%20again%2C%20hundreds%20of%20dead,of%20monitoring%20the%20endangered%20species"
+2022-04,2022,4,Kazakhstan,Mangistau,"44,5","50,4",94,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-05,2022,5,Kazakhstan,Mangistau,"44,5","50,4",64,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-05,2022,5,Kazakhstan,Mangistau,"44,5","50,4",4,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-05,2022,5,Kazakhstan,Mangistau,"44,5","50,4",14,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-05,2022,5,Kazakhstan,Mangistau,"44,5","50,4",1,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-05,2022,5,Kazakhstan,Mangistau,"44,5","50,4",28,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2022-06,2022,6,Kazakhstan,Mangistau,"44,5","50,4",1,unknown,https://kaspika.org/en/2022/07/28/why-is-caspian-seal-dying-2/
+2011-05,2011,5,Kazakhstan,Mangistau ,"44,5","50,4",15,unknown,https://www.rferl.org/a/kazakh_ecologists_investigate_caspian_seal_deaths/24096022.html
+2022-04,2022,4,Kazakhstan,Mangistau ,"44,5","50,4",94,unknown,"https://kaspika.org/en/2022/04/28/dozens-of-dead-seals-in-kazakhstan-2/#:~:text=On%20April%2027%2C%202022%2C%20while,Mangistau%20Region%20is%20being%20continued"
+2009-10,2009,10,Kazakhstan,North coast of the Caspian Sea,"46,8",53,350,unknown,https://www.rferl.org/a/kazakh_ecologists_investigate_caspian_seal_deaths/24096022.html
+2016-04,2016,4,Kazakhstan,North coast of the Caspian Sea,"46,8",53,40,unknown,"https://kaspika.org/en/2016/11/08/mass-mortality-of-caspian-seals-in-dagestan-2/#:~:text=Only%20this%20year%2C%20it%20was,climate%20change%2C%20pollution%20of%20the"
+2016-09,2016,9,Kazakhstan,North coast of the Caspian Sea,"46,8",53,6,unknown,"https://kaspika.org/en/2016/11/08/mass-mortality-of-caspian-seals-in-dagestan-2/#:~:text=Only%20this%20year%2C%20it%20was,climate%20change%2C%20pollution%20of%20the"
+2022-11,2022,11,Kazakhstan,North coast of the Caspian Sea,"46,8",53,131,unknown,https://phys.org/news/2022-11-dead-caspian-beaches.html
+2024-11,2024,11,Kazakhstan,North coast of the Caspian Sea,"46,8",53,1989,unknown ,"https://kaspika.org/en/2025/02/09/mass-seal-stranding-in-late-2024-2/#:~:text=PCR%20analyses%20of%20bio%20samples,2025%20–%20note%20by%20Kaspika"
+2000,2000,4,Kazakhstan,North coast of the Caspian Sea,"46,8",53,5500,CDV,https://www.pinnipeds.org/seal-information/species-information-pages/the-phocid-seals/caspian-seal
+1997,1997,,Azerbaijan,South-western cost ,"40,5",50,250,unknown,
+1997-05,1997,5,Azerbaijan,South-western cost ,"40,5",50,5500,CDV,https://www.pinnipeds.org/seal-information/species-information-pages/the-phocid-seals/caspian-seal
+1998,1998,,Azerbaijan,South-western cost ,"40,5",50,121,unknown,
+1999,1999,,Azerbaijan,South-western cost ,"40,5",50,144,unknown,
+2000,2000,,Azerbaijan,South-western cost ,"40,5",50,223,unknown,
+2001,2001,,Azerbaijan,South-western cost ,"40,5",50,216,unknown,
+2002,2002,,Azerbaijan,South-western cost ,"40,5",50,40,unknown,
+2003,2003,,Azerbaijan,South-western cost ,"40,5",50,67,unknown,
+2004,2004,,Azerbaijan,South-western cost ,"40,5",50,35,unknown,
+2005,2005,,Azerbaijan,South-western cost ,"40,5",50,54,unknown,
+2006,2006,,Azerbaijan,South-western cost ,"40,5",50,56,unknown,
+2007,2007,,Azerbaijan,South-western cost ,"40,5",50,27,unknown,
+2008,2008,,Azerbaijan,South-western cost ,"40,5",50,35,unknown,
+2009,2009,,Azerbaijan,South-western cost ,"40,5",50,12,unknown,
+2010,2010,,Azerbaijan,South-western cost ,"40,5",50,22,unknown,
+2011,2011,,Azerbaijan,South-western cost ,"40,5",50,33,unknown,
+2012,2012,,Azerbaijan,South-western cost ,"40,5",50,31,unknown,
+2013,2013,,Azerbaijan,South-western cost ,"40,5",50,41,unknown,
+2014,2014,,Azerbaijan,South-western cost ,"40,5",50,63,unknown,
+2015,2015,,Azerbaijan,South-western cost ,"40,5",50,65,unknown,
+2016,2016,,Azerbaijan,South-western cost ,"40,5",50,57,unknown,
+2017,2017,,Azerbaijan,South-western cost ,"40,5",50,84,unknown,
+2018,2018,,Azerbaijan,South-western cost ,"40,5",50,87,unknown,
+2019,2019,,Azerbaijan,South-western cost ,"40,5",50,85,unknown,
+2020,2020,,Azerbaijan,South-western cost ,"40,5",50,98,unknown,
+2021,2021,,Azerbaijan,South-western cost ,"40,5",50,82,unknown,
+2022,2022,,Azerbaijan,South-western cost ,"40,5",50,61,unknown,
+2023,2023,,Azerbaijan,South-western cost ,"40,5",50,48,unknown,
+2024,2024,,Azerbaijan,South-western cost ,"40,5",50,43,unknown,
+2012-10,2012,10,Russia,West coast of the Caspian Sea,"44,5","46,8",500,unknown,"https://kaspika.org/en/2012/10/19/tragedy-of-caspian-seal-2/#:~:text=The%20mass%20mortality%20of%20Caspian,Most%20of%20the%20dead"
+2016-11,2016,11,Russia,West coast of the Caspian Sea,"44,5","46,8",317,unknown,"https://kaspika.org/en/2016/11/08/mass-mortality-of-caspian-seals-in-dagestan-2/#:~:text=Only%20this%20year%2C%20it%20was,climate%20change%2C%20pollution%20of%20the"
+2020-12,2020,12,Russia,West coast of the Caspian Sea,"44,5","46,8",2515,asphyxiation,"https://trudy.vniro.ru/jour/article/view/265#:~:text=As%20a%20result%2C%C2%A012%20coastal%20sites,cause%20of%20the%20seals%20death"
+2021-05,2021,5,Russia,West coast of the Caspian Sea,"44,5","46,8",170,by-catch,"https://news.mongabay.com/2021/05/latest-mass-stranding-raises-concerns-for-endangered-caspian-seals/#:~:text=When%20Viktor%20Nikiforov%20heard%20about,day%2C%20they%20discovered%20even%20more"
+2022-12,2022,12,Russia,West coast of the Caspian Sea,"44,5","46,8",2500,unknown,"https://www.theguardian.com/world/2022/dec/05/2500-caspian-seals-found-dead-along-russian-coastline#:~:text=About%202%2C500%20seals%20have%20been,Russia%2C%20officials%20said%20on%20Sunday"
+2022-05,2022,5,Russia,West coast of the Caspian Sea,"44,5","46,8",154,unknown,"https://kaspika.org/en/2022/05/23/dead-caspian-seals-in-dagestan-2/#:~:text=In%20the%20first%20half%20of,Makhachkala%3B%20in%20the%20Derbent%20Region"
+2023-12,2023,12,Russia,West coast of the Caspian Sea,"44,5","46,8",130,storm,"https://timesca.com/storm-washes-dead-seals-ashore-on-kazakhstans-caspian-coast/#:~:text=Seals%20have%20died%20in%20mass,Sarsenbayev%2C%20a%20blogger%20from%20Aktau"
+2024-11,2024,11,Russia,West coast of the Caspian Sea,"44,5","46,8",1860,unknown ,"https://kaspika.org/en/2025/02/09/mass-seal-stranding-in-late-2024-2/#:~:text=PCR%20analyses%20of%20bio%20samples,2025%20%E2%80%93%20note%20by%20Kaspika"
+2024,2024,,Iran,Iranian coast,"36,5","51,7",22,unknown,"https://www.asriran.com/fa/news/1063253/%D9%81%DA%A9-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B2%D8%B1%DB%8C-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85-%D8%B5%DB%8C%D8%A7%D8%AF%D8%A7%D9%86#:~:text=%D8%A7%DB%8C%D9%86%20%D9%85%D9%82%D8%A7%D9%85%20%D9%85%D8%B3%D8%A6%D9%88%D9%84%20%D8%A8%D8%A7%20%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF,%C2%BB"
+2025,2025,,Iran,Iranian coast,"36,5","51,7",28,unknown,"https://www.asriran.com/fa/news/1063253/%D9%81%DA%A9-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B2%D8%B1%DB%8C-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C-%DB%8C%D8%A7-%D8%AF%D8%A7%D9%85-%D8%B5%DB%8C%D8%A7%D8%AF%D8%A7%D9%86#:~:text=%D8%A7%DB%8C%D9%86%20%D9%85%D9%82%D8%A7%D9%85%20%D9%85%D8%B3%D8%A6%D9%88%D9%84%20%D8%A8%D8%A7%20%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF,%C2%BB"
